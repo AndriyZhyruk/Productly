@@ -102,7 +102,7 @@ a{
 /*--super-section--*/
 .super {
     margin-top: 112px;
-    background-image: url(/images/Bgbg-tools.png);
+    background-image: url(./images/Bgbg-tools.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -482,7 +482,7 @@ h3{
 .super-hero{
     margin-top: 158px;
     padding-top: 230px;
-    background-image: url(/images/Oval.png);
+    background-image: url(./images/Oval.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
